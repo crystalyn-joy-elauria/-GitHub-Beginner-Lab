@@ -31,13 +31,14 @@
             this.lblName = new System.Windows.Forms.Label();
             this.lblEnteredName = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblName
             // 
             this.lblName.AutoSize = true;
             this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.30189F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(14, 92);
+            this.lblName.Location = new System.Drawing.Point(13, 111);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(234, 29);
             this.lblName.TabIndex = 0;
@@ -47,7 +48,7 @@
             // 
             this.lblEnteredName.AutoSize = true;
             this.lblEnteredName.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.30189F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEnteredName.Location = new System.Drawing.Point(254, 92);
+            this.lblEnteredName.Location = new System.Drawing.Point(253, 111);
             this.lblEnteredName.Name = "lblEnteredName";
             this.lblEnteredName.Size = new System.Drawing.Size(307, 29);
             this.lblEnteredName.TabIndex = 1;
@@ -63,11 +64,23 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Student Profile";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 23.77358F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(277, 20);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(389, 39);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "— GitHub Begginer Lab";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(591, 178);
+            this.ClientSize = new System.Drawing.Size(682, 178);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblEnteredName);
             this.Controls.Add(this.lblName);
@@ -83,6 +96,7 @@
         private System.Windows.Forms.Label lblName;
         private System.Windows.Forms.Label lblEnteredName;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 

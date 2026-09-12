@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Crystalyn Joy\\Documents\\repos\\crystalyn-joy-elauria\\-GitHub-Beginner-Lab\\StudentProfile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B065F76D-BA92-4A5E-8C33-07AE5BD815D7}|StudentProfile.csproj|c:\\users\\crystalyn joy\\documents\\repos\\crystalyn-joy-elauria\\-github-beginner-lab\\studentprofile\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B065F76D-BA92-4A5E-8C33-07AE5BD815D7}|StudentProfile.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B065F76D-BA92-4A5E-8C33-07AE5BD815D7}|StudentProfile.csproj|c:\\users\\crystalyn joy\\documents\\repos\\crystalyn-joy-elauria\\-github-beginner-lab\\studentprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B065F76D-BA92-4A5E-8C33-07AE5BD815D7}|StudentProfile.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B065F76D-BA92-4A5E-8C33-07AE5BD815D7}|StudentProfile.csproj|C:\\Users\\Crystalyn Joy\\Documents\\repos\\crystalyn-joy-elauria\\-GitHub-Beginner-Lab\\StudentProfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B065F76D-BA92-4A5E-8C33-07AE5BD815D7}|StudentProfile.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,12 +25,8 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Crystalyn Joy\\Documents\\repos\\crystalyn-joy-elauria\\-GitHub-Beginner-Lab\\StudentProfile\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -30,7 +34,37 @@
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T09:36:30.747Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Crystalyn Joy\\Documents\\repos\\crystalyn-joy-elauria\\-GitHub-Beginner-Lab\\StudentProfile\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Crystalyn Joy\\Documents\\repos\\crystalyn-joy-elauria\\-GitHub-Beginner-Lab\\StudentProfile\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T10:25:15.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Crystalyn Joy\\Documents\\repos\\crystalyn-joy-elauria\\-GitHub-Beginner-Lab\\StudentProfile\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Crystalyn Joy\\Documents\\repos\\crystalyn-joy-elauria\\-GitHub-Beginner-Lab\\StudentProfile\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T10:05:52.322Z"
             }
           ]
         }
