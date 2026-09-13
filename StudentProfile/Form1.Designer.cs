@@ -32,8 +32,6 @@
             this.lblEnteredName = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.lblContact = new System.Windows.Forms.Label();
             this.lblEnteredContact = new System.Windows.Forms.Label();
             this.lblYearLevel = new System.Windows.Forms.Label();
@@ -82,24 +80,10 @@
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.30189F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(14, 159);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(219, 29);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Contact Number:";
-            // 
+
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.30189F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(253, 159);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(178, 29);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "09171234567";
+
             // 
             // lblContact
             // 
@@ -146,8 +130,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(693, 251);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
+
             this.ClientSize = new System.Drawing.Size(691, 286);
             this.Controls.Add(this.lblEnteredYearLevel);
             this.Controls.Add(this.lblYearLevel);
@@ -170,8 +153,6 @@
         private System.Windows.Forms.Label lblEnteredName;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label lblContact;
         private System.Windows.Forms.Label lblEnteredContact;
         private System.Windows.Forms.Label lblYearLevel;
